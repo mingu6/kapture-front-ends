@@ -1,0 +1,6 @@
+[submodule "thirdparty/r2d2"]
+	path = thirdparty/r2d2
+	url = https://github.com/naver/r2d2.git
+[submodule "thirdparty/deep-image-retrieval"]
+	path = thirdparty/deep-image-retrieval
+	url = https://github.com/almazan/deep-image-retrieval.git
