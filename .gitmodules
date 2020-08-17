@@ -4,3 +4,6 @@
 [submodule "thirdparty/deep-image-retrieval"]
 	path = thirdparty/deep-image-retrieval
 	url = https://github.com/almazan/deep-image-retrieval.git
+[submodule "thirdparty/netvlad_tf_open"]
+	path = thirdparty/netvlad_tf_open
+	url = https://github.com/uzh-rpg/netvlad_tf_open.git
